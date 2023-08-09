@@ -1,7 +1,7 @@
 
 **Aves species detection** 
 
-this is an andriod/ios app whech is used to detect different type
+this is an andriod/ios app which is used to detect different type
 of bird species using deeplearning and flutter
 
 ---------------------------------------------------------
