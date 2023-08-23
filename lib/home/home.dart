@@ -16,9 +16,9 @@ class home extends StatefulWidget {
 class _homeState extends State<home>{
   int _selectedIndex = 0;
   String mail="";
-  List<Widget> _widgetOptions = <Widget>[
+  List<Widget> _widgetOptions = <Widget>[      //this is the one which maps with the index
     home_page(),
-    search_img_page(),
+    search_img_page(),      //home_screens/seach.dart
     search_page(),
     settings_page(),
   ];
